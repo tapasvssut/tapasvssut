@@ -4,11 +4,15 @@
   <em>Senior Software Engineer · .NET Core · Angular · Microservices · Clean Architecture</em>
 </p>
 
+<p align="center">
+  🏅 <strong>5 Years 11 Months of Professional Experience</strong>
+</p>
+
 ---
 
 ## 🙋‍♂️ About Me
 
-Senior Software Engineer with strong experience in **.NET Core (6/7)**, **.NET Framework**, and **Angular (4–14)**.
+Senior Software Engineer with **5 years 11 months** of strong experience in **.NET Core (6/7)**, **.NET Framework**, and **Angular (4–14)**.
 Expertise in **DDD**, **CQRS**, and **SOLID principles** with hands-on experience in building scalable microservices and REST APIs.
 Proficient in **MSSQL**, **PostgreSQL**, **MySQL**, **Redis**, and **RabbitMQ**.
 Experienced in real-time systems using **SignalR** and performance optimization through caching.
@@ -43,6 +47,10 @@ Strong background in **system design**, **clean architecture**, and delivering h
 ### Real-time & Performance
 ![SignalR](https://img.shields.io/badge/-SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Caching](https://img.shields.io/badge/-Caching-informational?style=flat)
+
+### 🤖 AI Tools
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
