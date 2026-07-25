@@ -1,119 +1,77 @@
-<h1 align="center">Hi 👋, I'm Tapas Kumar Biswal</h1>
-<h3 align="center">Senior Software Engineer | .NET Core · Angular · Microservices · Clean Architecture</h3>
-<h4 align="center">🏅 5 Years 11 Months of Professional Experience</h4>
+<h1 align="center">Hi there, I'm Tapas 👋</h1>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tapasvssut&label=Profile%20views&color=0e75b6&style=flat" alt="tapasvssut" />
+<p align="center">
+  <em>Senior Software Engineer · .NET Core · Angular · Microservices · Clean Architecture</em>
 </p>
 
-- 🔭 I'm currently working at **BI WORLDWIDE India**
-
-- 🌱 I'm currently learning **Cloud (AWS / Azure)**
-
-- 💬 Ask me about **.NET Core, Angular, Microservices, DDD, CQRS, SignalR, Redis, RabbitMQ**
-
-- 🧠 Expertise in **DDD, CQRS, SOLID principles, Clean Architecture, System Design**
-
-- 🤖 AI Tools I use: **GitHub Copilot & Claude**
-
-- 📫 How to reach me: **tapasvssut@github.com**
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/tapasvssut" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/tapasvssut" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
+<p align="center">
+  🏅 <strong>5 Years 11 Months of Professional Experience</strong>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
+## 🙋‍♂️ About Me
 
-  <!-- .NET / C# -->
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
+Senior Software Engineer with **5 years 11 months** of strong experience in **.NET Core (6/7)**, **.NET Framework**, and **Angular (4–14)**.
+Expertise in **DDD**, **CQRS**, and **SOLID principles** with hands-on experience in building scalable microservices and REST APIs.
+Proficient in **MSSQL**, **PostgreSQL**, **MySQL**, **Redis**, and **RabbitMQ**.
+Experienced in real-time systems using **SignalR** and performance optimization through caching.
+Strong background in **system design**, **clean architecture**, and delivering high-quality enterprise applications.
 
-  <!-- Angular -->
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
+---
 
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
+## 🛠️ Tech Stack
 
-  <!-- MSSQL -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-  </a>
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/-.NET%20Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
+### Architecture & Patterns
+![DDD](https://img.shields.io/badge/-DDD-informational?style=flat)
+![CQRS](https://img.shields.io/badge/-CQRS-informational?style=flat)
+![SOLID](https://img.shields.io/badge/-SOLID-informational?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-informational?style=flat)
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-informational?style=flat)
+![REST API](https://img.shields.io/badge/-REST%20API-informational?style=flat)
 
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
+### Databases & Messaging
+![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-  <!-- Redis -->
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  </a>
+### Real-time & Performance
+![SignalR](https://img.shields.io/badge/-SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Caching](https://img.shields.io/badge/-Caching-informational?style=flat)
 
-  <!-- RabbitMQ -->
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
-  </a>
+### 🤖 AI Tools
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
+---
 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+## 📊 GitHub Stats
 
-  <!-- Azure -->
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-
-  <!-- GitHub Copilot -->
-  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
-    <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="GitHub Copilot" width="40" height="40"/>
-  </a>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tapasvssut&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapasvssut&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+## 🔥 GitHub Streak
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tapasvssut&show_icons=true&locale=en&layout=compact&theme=radical" alt="tapasvssut" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tapasvssut&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tapasvssut&show_icons=true&locale=en&theme=radical" alt="tapasvssut" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=tapasvssut&theme=radical" alt="tapasvssut" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tapasvssut&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
