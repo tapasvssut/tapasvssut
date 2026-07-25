@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tapas 👋</h1>
+<h1 align="center"> Tapas Kumar Biswal </h1>
 
 <p align="center">
   <em>Senior Software Engineer · .NET Core · Angular · Microservices · Clean Architecture</em>
